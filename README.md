@@ -1,5 +1,2 @@
-# Alunos
-
-**Alan Cintra**
-
 **Artur Ferreira**
+201851093524
